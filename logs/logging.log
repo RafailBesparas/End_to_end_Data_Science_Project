@@ -81,3 +81,28 @@ Source-Age: 0
 [2024-12-14 17:28:12,427: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-12-14 17:53:03,207: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-14 17:53:03,217: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-14 17:53:03,227: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-14 17:53:03,230: INFO: common: created directory at: artifacts]
+[2024-12-14 17:53:03,234: INFO: common: created directory at: artifacts/data_validation]
+[2024-12-14 18:09:07,687: INFO: main: Welcome to the custom logging data science logger]
+[2024-12-14 18:09:07,692: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-12-14 18:09:07,694: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-14 18:09:07,694: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-14 18:09:07,699: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-14 18:09:07,702: INFO: common: created directory at: artifacts]
+[2024-12-14 18:09:07,703: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-12-14 18:09:07,704: INFO: data_ingestion: File already exists]
+[2024-12-14 18:09:07,724: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-12-14 18:09:07,725: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-12-14 18:09:07,728: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-14 18:09:07,730: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-14 18:09:07,734: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-14 18:09:07,735: INFO: common: created directory at: artifacts]
+[2024-12-14 18:09:07,737: INFO: common: created directory at: artifacts/data_validation]
+[2024-12-14 18:09:07,771: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
