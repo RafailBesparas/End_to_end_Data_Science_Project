@@ -44,3 +44,40 @@ Expires: Sat, 14 Dec 2024 09:55:30 GMT
 Source-Age: 0
 
 ]
+[2024-12-14 17:28:10,746: INFO: main: Welcome to the custom logging data science logger]
+[2024-12-14 17:28:10,748: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-12-14 17:28:10,751: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-14 17:28:10,753: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-14 17:28:10,753: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-14 17:28:10,757: INFO: common: created directory at: artifacts]
+[2024-12-14 17:28:10,759: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-12-14 17:28:12,330: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 85DE:1CD6C3:8541A8:89CC33:675DA407
+Accept-Ranges: bytes
+Date: Sat, 14 Dec 2024 15:28:08 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230085-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1734190089.764149,VS0,VE189
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d664980533fb0a9715875662c983298b7e91e225
+Expires: Sat, 14 Dec 2024 15:33:08 GMT
+Source-Age: 0
+
+]
+[2024-12-14 17:28:12,427: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
