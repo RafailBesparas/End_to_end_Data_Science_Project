@@ -143,3 +143,46 @@ x==========x]
 [2024-12-15 11:43:09,356: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
 
 x==========x]
+[2024-12-16 20:46:46,478: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-16 20:46:46,502: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-16 20:46:46,507: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-16 20:46:46,510: INFO: common: created directory at: artifacts]
+[2024-12-16 20:46:46,510: INFO: common: created directory at: artifacts/model_trainer]
+[2024-12-16 21:01:53,010: INFO: main: Welcome to the custom logging data science logger]
+[2024-12-16 21:01:53,012: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-12-16 21:01:53,017: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-16 21:01:53,017: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-16 21:01:53,021: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-16 21:01:53,021: INFO: common: created directory at: artifacts]
+[2024-12-16 21:01:53,023: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-12-16 21:01:53,024: INFO: data_ingestion: File already exists]
+[2024-12-16 21:01:53,067: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-12-16 21:01:53,067: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-12-16 21:01:53,069: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-16 21:01:53,072: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-16 21:01:53,075: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-16 21:01:53,077: INFO: common: created directory at: artifacts]
+[2024-12-16 21:01:53,078: INFO: common: created directory at: artifacts/data_validation]
+[2024-12-16 21:01:53,106: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-12-16 21:01:53,107: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-12-16 21:01:53,123: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-16 21:01:53,123: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-16 21:01:53,127: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-16 21:01:53,128: INFO: common: created directory at: artifacts]
+[2024-12-16 21:01:53,129: INFO: common: created directory at: artifacts/data_transformation]
+[2024-12-16 21:01:53,131: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-12-16 21:01:53,131: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-12-16 21:01:53,135: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-16 21:01:53,136: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-16 21:01:53,139: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-16 21:01:53,141: INFO: common: created directory at: artifacts]
+[2024-12-16 21:01:53,143: INFO: common: created directory at: artifacts/model_trainer]
+[2024-12-16 21:01:53,156: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
