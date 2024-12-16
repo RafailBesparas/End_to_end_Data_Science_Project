@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlOperations/End_to_End_Project/End_to_end_Data_Science_Project/mlruns/0/4231768465eb40009ba87ede536ee851/artifacts
+end_time: 1734384788695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4231768465eb40009ba87ede536ee851
+run_name: judicious-snipe-344
+run_uuid: 4231768465eb40009ba87ede536ee851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734384769705
+status: 3
+tags: []
+user_id: user
