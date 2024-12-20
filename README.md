@@ -1,5 +1,9 @@
 # End to End Data Science Project
 
+# Overview:
+This project focuses on predicting wine quality, with a target variable ranging from 1 (bad quality) to 7 (best quality). It demonstrates a complete data science workflow, including data preprocessing, model development, evaluation, and deployment. The goal is to build a robust machine learning model that can accurately classify wine quality based on various chemical properties.
+
+
 ### Workflows--ML Pipeline
 
 1. Data Ingestion
